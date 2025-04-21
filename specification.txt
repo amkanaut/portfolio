@@ -1,0 +1,28 @@
+HTML tags used:
+
+<header>
+<nav>
+<div>
+<a>
+<button>
+<span>
+<ul>
+<li>
+<label>
+<input>
+<img>
+<script>
+
+CSS Properties:
+padding
+margin
+color
+display: flex:
+justify-content
+font-family
+font-weight
+font-size
+background color:
+
+Used JS to create a timer for my website for a cool easter egg and used Bootstrap to add a Navigation bar
+
